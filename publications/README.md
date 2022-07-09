@@ -7,7 +7,7 @@ It has divided into two groups: model based and application based
 + Application based publications: focus on using the brain age biomaker in clinical application
 ```
 
-# Model based publications
+# Model based publications:
 
 # Application based publication:
 
