@@ -11,7 +11,7 @@ It has divided into two groups: model based and application based
 
 # Application based publication:
 
-1. **Elevated blood pressure is associated with advanced brain aging in mid-life: A 30-year follow-up of The CARDIA Study**
+- **Elevated blood pressure is associated with advanced brain aging in mid-life: A 30-year follow-up of The CARDIA Study**
 
 Alzheimer's & Dementia [`paper`](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1002/alz.12725)
 
